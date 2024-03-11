@@ -1,3 +1,9 @@
+![image](https://github.com/Vaishup179/Vaishup179/assets/161995097/44aa776f-f895-41e8-a156-6ad8317e07a5)
+
+
+
+
+
 - 👋 Hi, I’m Vaishnavi Patel (@Vaishup179).
 - 👀 I’m interested in a career switch from Academia to Tech (IT) particularly in the field of Data Science.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
