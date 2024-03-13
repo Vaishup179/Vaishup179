@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate for Projects and work on data science, machine learning, and artificial intelligence.
 - 📫 You can reach me via email at (mailto: drvaishnavi179@gmail.com) or connect with me at (https://www.linkedin.com/in/vaishnavipatel179/).
 - ⚡ Fun fact: I'm also passionate about photography and love capturing moments in nature, spending time with family is what makes a day happy! .
-
+- Visit the Certificates repository for my earned certificates list. 
 <!---
 Vaishup179/Vaishup179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
